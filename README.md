@@ -1,7 +1,7 @@
 # OLCV
 | One Life Current Version
 
-This is a public repository which keeps track of the current One Life version.
+This is a public repository which keeps track of the current One Life - Popular SMP version.
 It is useless on it's own, but is used by the [Koushin](https://github.com/owospace/Koushin) mod.
 
 ## Why?
